@@ -1,0 +1,32 @@
+Version History
+
+     Changes in Version 0.1.0
+=============================
+
+            1. Added "checked mate" message to remind user to save the King instead of misleading "invalid move" message.
+
+            2. Fix the Bug that player can select a position outside the right edge of the chessboard.
+
+            3. Changed the menu description from "Puzzle" to a more meaningful "Choose a Chess Puzzle".
+
+            4. Added a play game time at the bottom of the screen.
+
+            
+      Changes in Version 0.1.1
+==============================
+
+            1. Changed the display Game Time from second to minute - Avoid drain the battery power.
+
+            2. Stop the Game Time if the game is over.
+
+            3. Fix the Title problem by changing the manifest.mf file.
+           
+
+      Installation instruction
+==============================
+
+	1. Delete the old file "KindleChineseChess" with "azw2" extension from your Kindle.
+
+	2. Unzip the file if it is zipped.
+
+	3. Just copy the new "azw2" extension file to your Kindle.
